@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fabián Evair",
+      "empresa": "Codigo con Fabián",
+      "email": "fabio@gmail.com",
+      "telefono": "965333438",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "987856235",
+      "notas": "Karen está cotizando toner",
+      "id": 2
+    },
+    {
+      "nombre": "Melissa",
+      "empresa": "Melissa Construcciones",
+      "email": "melissa@melissa.com",
+      "telefono": "987532165",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
